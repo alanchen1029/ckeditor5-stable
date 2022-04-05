@@ -85,7 +85,7 @@ ClassicEditor.defaultConfig = {
 			'mediaEmbed',
 			'undo',
 			'redo',
-			'SimpleUploadAdapter'
+			'simpleUploadAdapter'
 		]
 	},
 	image: {
